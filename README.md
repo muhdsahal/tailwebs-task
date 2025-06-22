@@ -34,32 +34,20 @@ Flask (for routing and server management)
 🌐 Frontend
 HTML5 & CSS3
 
-Vanilla JavaScript
 
 🚀 Installation & Setup
 1. Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/teacher-portal.git
 cd teacher-portal
  # On Windows use venv\Scripts\activate
 2. Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Run the Application
-bash
-Copy
-Edit
 python server.py
 Visit: http://localhost:8000
 
 🗃️ Project Structure
-pgsql
-Copy
-Edit
 teacher-portal/
 │
 ├── static/
